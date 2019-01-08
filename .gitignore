@@ -1,0 +1,13 @@
+.direnv/*
+!.direnv/.keep
+
+.env
+
+node_modules/
+package-lock.json
+
+dist/*
+!dist/.keep
+
+.cache/
+
