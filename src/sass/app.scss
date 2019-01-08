@@ -1,0 +1,17 @@
+/* stylelint-disable selector-list-comma-newline-after */
+
+// 0-plugins
+// 1-base
+// 2-layouts
+// 3-modules
+
+// google fonts
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:700,900);
+
+// font variables
+$playfair-display: "Playfair Display", Georgia, "Times New Roman", serif;
+
+body {
+  font-family: $playfair-display;
+}
+
